@@ -63,7 +63,7 @@ B6: SELF-ADJUSTING DATA STRUCTURES
 C: ORIGINAL CODE
 Code is original and provided in the main.py file.  WGUPSPackageFile.csv and WGUPSDistanceTable.csv are required to be in the same folder as main.py during execution of the python script.  The code does not have any warnings or errors.
 C1: IDENTIFICATION INFORMATION
-# Chad Self 000430387
+
 # WGUPS Routing Application
 These identifying comments exist as the first line of the file named “main.py”. This includes the candidate’s correct first name, last name, and student ID.
 C2: PROCESS AND FLOW COMMENTS
